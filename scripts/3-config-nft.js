@@ -3,7 +3,7 @@ import { readFileSync } from "fs";
 
 (async () => {
   try {
-    const editionDrop = await sdk.getContract("0xf82562226179A5e32D4278e7d0057137a4A955C0", "edition-drop");
+    const editionDrop = await sdk.getContract("0x977d60DEe0c35e5418C7C4f76dec1578F72C70ae", "edition-drop");
     await editionDrop.createBatch([
       {
         name: "BirdDAO Pin",
