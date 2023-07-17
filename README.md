@@ -1,4 +1,4 @@
-# BirdDAO - A DAO for birdwatching enthusiasts
+# 🪶 BirdDAO - A DAO for birdwatching enthusiasts
 
 ### **Welcome 👋**
 To get started with this project, clone this repo and follow these commands:
