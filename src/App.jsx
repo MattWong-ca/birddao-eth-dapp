@@ -163,7 +163,8 @@ const App = () => {
   if (!address) {
     return (
       <div className="landing">
-        <h1>Welcome to BirdDAO</h1>
+        <h1>Welcome to BirdDAO!</h1>
+        <div>BirdDAO is the world's largest birdwatching community.</div>
         <div className="btn-hero">
           <ConnectWallet />
         </div>
