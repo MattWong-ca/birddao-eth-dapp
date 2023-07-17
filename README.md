@@ -1,4 +1,4 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# BirdDAO - Using thirdweb and JavaScript
 
 ### **Welcome 👋**
 To get started with this project, clone this repo and follow these commands:
@@ -7,5 +7,5 @@ To get started with this project, clone this repo and follow these commands:
 2. Run `npm start` to start the project
 3. Start coding!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+# Links
+- BirdDAO Governance Token on [Goerli Etherscan](https://goerli.etherscan.io/token/0xf5ad13e83eb41183a408e37f4ac41eb943e0d0f6)
